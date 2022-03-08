@@ -1,4 +1,4 @@
-# Привет! <img src="https://samafricaonline.com/sam_pay/public/assets/images/wave.gif"/ width=25px>
+# Привет! <img src="https://samafricaonline.com/sam_pay/public/assets/images/wave.gif"/ width="25px">
 
 
 ### Меня зовут Рушан, и я javascript-разработчик.
