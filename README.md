@@ -10,4 +10,4 @@
 *
 *
 
-Связаться со мной: [telegram] (https://t.me/Rushan_Bil) [e-mail] (mailto:Rushan.bil@gmail.com)
+Связаться со мной: [telegram](https://t.me/Rushan_Bil), [e-mail](mailto:Rushan.bil@gmail.com)
