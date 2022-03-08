@@ -7,7 +7,7 @@
 * HTML/CSS
 * JavaScript
 * React, Redux
-*
-*
+* Sequelize
+* PostgreSQL
 
 Связаться со мной: [telegram](https://t.me/Rushan_Bil), [email](Rushan.bil@gmail.com)
