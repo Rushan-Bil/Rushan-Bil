@@ -3,8 +3,13 @@
 
 ## Меня зовут Рушан, и я javascript-разработчик.
 
-### Мой технологический стек:
-
+## Мой технологический стек:
+* HTML/CSS
+* JavaScript
+* Node.js
+* React, Redux
+* Sequelize
+* PostgreSQL
 
 ### Последние проекты:
 
