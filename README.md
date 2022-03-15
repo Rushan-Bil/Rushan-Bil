@@ -2,7 +2,7 @@
 
 
 ## Меня зовут Рушан, и я javascript-разработчик.
-Связаться со мной: [telegram](https://t.me/Rushan_Bil), [email](Rushan.bil@gmail.com)
+Связаться со мной: [[telegram]](https://t.me/Rushan_Bil), [[email]](Rushan.bil@gmail.com)
 
 ### Мой технологический стек:
 * HTML/CSS
